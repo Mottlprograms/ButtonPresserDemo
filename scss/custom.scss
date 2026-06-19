@@ -1,0 +1,12 @@
+$body-bg: #313131;
+$primary: #730096;
+$body-color: #FFF;
+
+$btn-border-width: 5000;
+
+@import "../node_modules/bootstrap/scss/_functions.scss";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/_mixins.scss";
+@import "../node_modules/bootstrap/scss/_buttons.scss";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
