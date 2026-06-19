@@ -1,4 +1,3 @@
-import Alert from "./components/Alert";
 import ButtonPlusMessage from "./components/ButtonPlusMessage";
 
 function App() {
